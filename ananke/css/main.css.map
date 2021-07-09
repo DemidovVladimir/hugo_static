@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/vldemidov/code/go_hugo/template_hugo/sample",
+	"sourceRoot": "/home/runner/work/hugo_static/hugo_static",
 	"sources": [
 		"stdin"
 	],
