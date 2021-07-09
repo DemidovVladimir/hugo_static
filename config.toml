@@ -1,4 +1,4 @@
-baseUrl = "https://VladimirDemidov.github.io/"
+baseUrl = "https://demidovvladimir.github.io/hugo_static/"
 languageCode = "en-us"
 title = "Some random shit..."
 theme = "ananke"
