@@ -2,3 +2,24 @@ baseUrl = "https://demidovvladimir.github.io/hugo_static/"
 languageCode = "en-us"
 title = "Some random shit"
 theme = "ananke"
+
+[[params.menu]]
+    name = "Contact"
+    url  = "/contact"
+    weight = 4
+
+[params.topbar]
+    enable = true
+    text = "<p>Contact us on +420 777 555 333 or hello@universal.com.</p>"
+
+[[menu.topbar]]
+    weight = 1
+    name = "GitHub"
+    url = "https://github.com/devcows/hugo-universal-theme"
+    pre = "<i class='fas fa-2x fa-github'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Facebook"
+    url = "http://facebook.com"
+    pre = "<i class='fas fa-2x fa-facebook'></i>"
